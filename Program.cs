@@ -21,4 +21,4 @@ pilha.Pop();
 Console.WriteLine("-------------------------------");
 pilha.MostrarElementos();
 
-
+Par<string,int> par= new Par<string,int>();
